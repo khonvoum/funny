@@ -2,4 +2,4 @@
 
 download and run in terminal
 
-### bash syMyName.sh
+### bash Desktop/funny/syMyName.sh
